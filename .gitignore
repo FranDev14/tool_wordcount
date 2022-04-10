@@ -1,4 +1,4 @@
 .idea/*
-./shakespeare_research/tmp/app.log
-./shakespeare_research/tmp/merged_files.txt
-./src/output/data.json
+/shakespeare_research/tmp/app.log
+/src/output/data.json
+/shakespeare_research/tmp/merged_files.txt
