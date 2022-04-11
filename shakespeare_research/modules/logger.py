@@ -2,7 +2,7 @@ import logging
 import os, sys
 
 
-# Logger class for modular config and testing.
+# Logger system init
 class Logger:
 	def __init__(self, logfile):
 		# Remove older log

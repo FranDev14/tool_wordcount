@@ -2,6 +2,7 @@ import os
 import logging
 from modules.research import Research
 from modules.logger import Logger
+# Environment vars
 from dotenv import load_dotenv
 load_dotenv(".env")
 
